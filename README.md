@@ -1,4 +1,4 @@
-E-ARK CITS Archvial
+E-ARK CITS Archival
 ===============
 
 ## E-ARK Content Information Type Specification for Archival Information
